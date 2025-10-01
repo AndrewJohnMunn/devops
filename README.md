@@ -5,7 +5,7 @@
 [![Releases](https://img.shields.io/github/release/AndrewJohnMunn/devops/all.svg?style=flat-square)](https://github.com/<github-username>/devops/releases)
 
 #DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/AndrewJohnMunn/devops/main.yml/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/AndrewJohnMunn/devops/AWorkflowForMyHelloWorldApp/develop?style=flat-square)
 
 
 This is some simple text added :) 
