@@ -4,6 +4,10 @@
 
 [![Releases](https://img.shields.io/github/release/AndrewJohnMunn/devops/all.svg?style=flat-square)](https://github.com/<github-username>/devops/releases)
 
+#DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/AndrewJohnMunn/devops/main.yml?branch=develop)
+
+
 This is some simple text added :) 
 
 01/10/25 - this is some added text, which I will push, hopefully to ensure CI workflow is working.
